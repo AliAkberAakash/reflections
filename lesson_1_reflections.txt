@@ -1,0 +1,63 @@
+# How did viewing a diff between two versions of a file help you see
+the bug that was introduced?
+
+> A diff between two versions of a file helped me to find the bug
+> by narrowing  down my code to only the part that was changed.
+> With this I didnt have to go through the full code and could find it 
+> in a very short time.
+
+------------------------------------------------------------------------
+
+# How could having easy access to the entire history of a file make you
+a more efficient programmer in the long term?
+
+> Having access to the entire history of a file makes it easier to find 
+> the older versions and migrate back to them if the newer version 
+> doesnt work properly. As a developer its quite handy as we make tons 
+> of errors.
+
+------------------------------------------------------------------------
+
+# What do you think are the pros and cons of manually choosing when to
+create a commit, like you do in Git, vs having versions automatically
+saved, like Google Docs does?
+
+> The pros are I can ensure that the commits are not too small or 
+> too large. And each commit will make sense.
+> 
+> Cons are I might forget to commit when neede, this can make the 
+> code harder to understand.
+
+------------------------------------------------------------------------
+
+# Why do you think some version control systems, like Git, allow saving
+multiple files in one commit, while others, like Google Docs, treat
+each file separately?
+
+> Well probably because git is supposed to store files related to 
+> developing and programming, where it is very likely to change multiple
+> files at once as they might be connected.
+
+------------------------------------------------------------------------
+
+# How can you use the commands git log and git diff to view the history of files?
+
+> The command git logs shows us the commit ids' and the command diff
+> shows the difference between the ids.
+
+------------------------------------------------------------------------
+
+# How might using version control make you more confident to make 
+changes that could break something?
+
+> Well I could always go back to the previous version!!!
+
+------------------------------------------------------------------------
+
+# Now that you have your workspace set up, what do you want to try using Git for?
+
+> To put my project pechal in aprivate repository and work on it.
+
+------------------------------------------------------------------------
+
+#
