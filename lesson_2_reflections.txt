@@ -1,0 +1,10 @@
+# What happens when you initialize a repository? Why do you need to do it?
+
+> A .git file is created. 
+> I need it to keep doing git operations like commit, log, status etc.
+
+# How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+> In this area we have prepared a screenshot of all the files but haven't commited yet. It is not 
+> the real file directory but only the preparation. It offers us to commit files on different 
+> commits, it helps us to seperate them.
