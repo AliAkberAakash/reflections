@@ -2,4 +2,11 @@
 
 > When i will be working on other peoples' projects?
 
----------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------
+
+# Why might you want to always pull changes manually rather than having Git automatically stay 
+up-to-date with your remote repository?
+
+> So that I have more control over each change.
+
+---------------------------------------------------------------------------------------------------

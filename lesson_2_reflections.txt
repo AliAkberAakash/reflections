@@ -3,8 +3,50 @@
 > A .git file is created. 
 > I need it to keep doing git operations like commit, log, status etc.
 
-# How is the staging area different from the working directory and the repository? What value do you think it offers?
+___________________________________________________________________________________________________
+
+# How is the staging area different from the working directory and the repository? What value do 
+you think it offers?
 
 > In this area we have prepared a screenshot of all the files but haven't commited yet. It is not 
 > the real file directory but only the preparation. It offers us to commit files on different 
 > commits, it helps us to seperate them.
+
+___________________________________________________________________________________________________
+
+
+# How can you use the staging area to make sure you have one commit per logical change?
+
+> Well, i can use the stagin area to stage only a specific part of my files. and commit them. this
+> keeps things simple. The commits beocme shorter and one commit per each logical change.
+
+___________________________________________________________________________________________________
+
+
+# What are some situations when branches would be helpful in keeping your history organized? How 
+would branches help?
+
+> When doing some experiments branch can help me out. i can create a seperate branch and make 
+> changes to it while keeping my main files unchanged!
+
+___________________________________________________________________________________________________
+
+# How do the diagrams help you visualize the branch structure?
+
+> It makes it quite easy to keep track of branches. I can actually understand each branch and 
+> their commits.
+
+___________________________________________________________________________________________________
+
+# What is the result of merging two branches together? Why do we represent it in the diagram the 
+way we do?
+
+> he result is a combined branch which has components of both the parent branches. We represent 
+> them that way so that its easier to visualize.  
+
+___________________________________________________________________________________________________
+
+# What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+> pros are I dont need to manually check,takes less time.
+> cons are merge conflicts. 
